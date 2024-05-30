@@ -1,6 +1,6 @@
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: aquamarine;
+    background-color: rgb(81, 199, 51);
     color:black;
     text-align: center;
 }
@@ -15,4 +15,12 @@ div {
 }
 h2 {
     text-align: left
+}
+div button {
+    background-color:rgb(2, 116, 31);
+
+}
+button a {
+    color:rgb(17, 207, 221);
+    font-size: 22px
 }
