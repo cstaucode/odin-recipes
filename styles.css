@@ -31,10 +31,10 @@ div button {
     background-color:rgb(57, 240, 127);
     margin-bottom: 20px;
     padding: 5px 10px 10px;
-    border: 5px solid rgb(0, 134, 52);
+    border: 5px solid rgb(1, 105, 53);
 }
 button a {
-    color:rgb(91, 0, 133);
+    color:rgb(0, 2, 133);
     font-size: 22px;
 }
 
@@ -49,4 +49,8 @@ p {
 img {
     margin-bottom: 10px;
     border: 8px solid rgb(0, 107, 27);
+}
+
+div .paragraphs {
+    
 }
