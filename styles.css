@@ -40,6 +40,7 @@ button a {
 
 h1 {
     margin: 20px;
+    border: 8px double rgb(1, 105, 53);
 }
 
 p {
@@ -51,6 +52,10 @@ img {
     border: 8px solid rgb(0, 107, 27);
 }
 
-div .paragraphs {
-    
+.double-border {
+    border: 8px double rgb(1, 105, 53);
+    text-align: center;
+    width: 800px;
+    height: auto;
+    margin: 20px auto;
 }
