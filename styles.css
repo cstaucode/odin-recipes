@@ -29,9 +29,12 @@ h2 {
 }
 div button {
     background-color:rgb(2, 116, 31);
+    margin-bottom: 20px;
 
 }
 button a {
     color:rgb(17, 207, 221);
-    font-size: 22px
+    font-size: 22px;
+    padding: 5px 10px 10px;
+    display: block;
 }
