@@ -26,6 +26,7 @@ div {
 }
 h2 {
     text-align: left
+    padding-left: 10px;
 }
 div button {
     background-color:rgb(57, 240, 127);
@@ -58,4 +59,17 @@ img {
     width: 800px;
     height: auto;
     margin: 20px auto;
+}
+
+ol,
+ul {
+    list-style-position: inside;
+}
+
+li {
+    padding-left: 10px;
+}
+
+.note {
+    margin-left: 40px;
 }
